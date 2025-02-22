@@ -67,10 +67,3 @@ For more information on Angular CLI commands, please refer to the [Angular CLI O
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-Citations:
-[1] https://github.com/Maddy23032/dynamic-form-table
